@@ -1,0 +1,9 @@
+﻿{
+	"name": "com.kenmasamaki.noneditableattribute",
+	"displayName": "NonEditableAttribute",
+	"version": "1.0.0",
+	"description": "NonEditableAttribute",
+	"author": {
+		"name": "Tsujiken"
+	}
+}
